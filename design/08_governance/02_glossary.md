@@ -21,4 +21,6 @@
 | 魔物袭击 | 周期性刷新并倒计时预警的威胁事件，玩家需要选择勇者前往讨伐。 | [[design/01_core_gameplay/05_raid_warning_and_dispatch|袭击预警与派遣]] |
 | 讨伐 | 勇者队伍与魔物进行自动战斗的过程。 | [[design/01_core_gameplay/06_auto_battle_system|自动战斗系统]] |
 | 战利品 | 讨伐成功后获得的被动增益物，持续提升餐厅或勇者相关效果。 | [[design/02_content_systems/05_loot_and_trophies|掉落与战利品]] |
-
+| 食物倾向 | 菜品用于表达成长方向的标签，如力量、坚韧、奥术、圣光和均衡，用于匹配职业与怪物弱点。 | [[design/02_content_systems/02_recipes_and_dishes|食谱与菜品]] |
+| 技能强度 | 勇者属性之一，影响职业自动技能效果，如战士守护、法师爆发、牧师治疗或护盾。 | [[design/04_balance_data/02_attribute_and_combat_formula|属性与战斗公式]] |
+| 怪物弱点 | 魔物在物理、魔法或圣光方向上的可克制标签，用于引导玩家准备对应职业和菜品。 | [[design/02_content_systems/04_monsters_and_raids|魔物与袭击]] |

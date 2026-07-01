@@ -29,12 +29,11 @@
 ## 标签建议
 
 - 食材标签：`grain`、`meat`、`vegetable`、`rare`、`monster_drop`。
-- 菜品标签：`attack`、`defense`、`hp`、`balanced`、`temporary_buff`。
-- 勇者标签：`tank`、`damage`、`balanced`、`novice`、`elite`。
-- 魔物标签：`beast`、`undead`、`armored`、`swarm`、`boss_like`。
+- 菜品标签：`attack`、`defense`、`hp`、`magic_attack`、`skill_power`、`strength_food`、`toughness_food`、`arcane_food`、`holy_food`、`balanced`、`temporary_buff`。
+- 勇者标签：`warrior`、`mage`、`priest`、`tank`、`damage`、`support`、`balanced`、`novice`、`elite`。
+- 魔物标签：`beast`、`undead`、`armored`、`swarm`、`boss_like`、`weak_physical`、`weak_magic`、`weak_holy`。
 - 战利品标签：`economy`、`cooking`、`combat`、`loot`、`offline`。
 
 ## 关联文档
 
 - [[design/06_technical_production/01_data_pipeline_and_tools|数据管线与工具]]
-
