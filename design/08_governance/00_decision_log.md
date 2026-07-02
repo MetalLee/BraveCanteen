@@ -17,6 +17,7 @@
 ## 决策索引
 
 - [[design/08_governance/2026-06-26_design_knowledge_base_initialization|建立 design 目录作为最高设计准则]]
+- [[design/01_core_gameplay/08_meal_table_combo_system|餐桌配餐与料理牌型系统]]
 
 ## 摘要表
 
@@ -24,4 +25,5 @@
 | --- | --- | --- | --- | --- |
 | 2026-06-26 | 建立 `design/` 目录作为最高设计准则 | 已接受 | 知识库治理 / 后续开发流程 | [[design/README|Design Knowledge Base]] |
 | 2026-06-26 | 将游戏定位为勇者餐厅模拟经营 + 增量成长 + 自动战斗 | 已接受 | 产品 / 核心玩法 / 内容 / 平衡 / 技术 | [[design/00_product/00_game_concept|游戏概述]] |
+| 2026-07-02 | Boss 战前采用最多 5 道菜的餐桌配餐，并以料理牌型、勇者喜好、厨具战利品和厨师演出构成选菜核心趣味 | 草案接受 | 核心玩法 / 菜品 / 勇者成长 / 战利品 / UI / 反馈 | [[design/01_core_gameplay/08_meal_table_combo_system|餐桌配餐与料理牌型系统]] |
 

@@ -33,6 +33,7 @@
 - [[design/01_core_gameplay/05_raid_warning_and_dispatch|袭击预警与派遣]]
 - [[design/01_core_gameplay/06_auto_battle_system|自动战斗系统]]
 - [[design/01_core_gameplay/07_resource_economy|资源与经济]]
+- [[design/01_core_gameplay/08_meal_table_combo_system|餐桌配餐与料理牌型系统]]
 
 ### 02 Content Systems
 
